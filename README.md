@@ -35,6 +35,4 @@
 
 💡 _"Innovating, learning, and crafting intuitive digital experiences one line of code at a time."_  
 
----
 
-This version enhances readability, aesthetics, and engagement. Hope you like it, bro! Want any more tweaks? 🚀🔥  
